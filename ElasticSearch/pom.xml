@@ -72,7 +72,7 @@
         <!--业务包-->
         <dependency>
             <groupId>com.cloud.blog</groupId>
-            <artifactId>Blog-Business</artifactId>
+            <artifactId>Business</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
     </dependencies>

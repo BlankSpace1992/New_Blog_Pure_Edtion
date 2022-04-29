@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>Blog-Business</artifactId>
+    <artifactId>Business</artifactId>
 
  <dependencies>
      <!--hutool-->
@@ -24,7 +24,7 @@
      <!--公共包-->
      <dependency>
          <groupId>com.cloud.blog</groupId>
-         <artifactId>Blog-Common</artifactId>
+         <artifactId>Common</artifactId>
          <version>0.0.1-SNAPSHOT</version>
      </dependency>
  </dependencies>

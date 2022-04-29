@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>Blog-Admin</artifactId>
+    <artifactId>Admin</artifactId>
 
     <dependencies>
         <dependency>
@@ -85,7 +85,7 @@
         <!--业务包-->
         <dependency>
             <groupId>com.cloud.blog</groupId>
-            <artifactId>Blog-Business</artifactId>
+            <artifactId>Business</artifactId>
             <version>0.0.1-SNAPSHOT</version>
             <scope>compile</scope>
         </dependency>

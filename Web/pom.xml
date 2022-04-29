@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>Blog-Web</artifactId>
+    <artifactId>Web</artifactId>
 
     <dependencies>
         <!--springboot web 依赖-->
@@ -64,7 +64,7 @@
         <!--业务包-->
         <dependency>
             <groupId>com.cloud.blog</groupId>
-            <artifactId>Blog-Business</artifactId>
+            <artifactId>Business</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
 

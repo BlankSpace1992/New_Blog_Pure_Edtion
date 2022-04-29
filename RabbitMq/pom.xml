@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>Blog-RabbitMq</artifactId>
+    <artifactId>RabbitMq</artifactId>
    <dependencies>
        <!--springboot web 依赖-->
        <dependency>
@@ -45,7 +45,7 @@
        <!--公共包-->
        <dependency>
            <groupId>com.cloud.blog</groupId>
-           <artifactId>Blog-Common</artifactId>
+           <artifactId>Common</artifactId>
            <version>0.0.1-SNAPSHOT</version>
        </dependency>
    </dependencies>

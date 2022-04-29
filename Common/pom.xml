@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>Blog-Common</artifactId>
+    <artifactId>Common</artifactId>
 
     <dependencies>
         <!-- 引入lombok -->
@@ -105,10 +105,22 @@
             <groupId>io.jsonwebtoken</groupId>
             <artifactId>jjwt</artifactId>
         </dependency>
+        <dependency>
+            <groupId>javax.xml.bind</groupId>
+            <artifactId>jaxb-api</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.sun.xml.bind</groupId>
+            <artifactId>jaxb-core</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.sun.xml.bind</groupId>
+            <artifactId>jaxb-impl</artifactId>
+        </dependency>
         <!--工具包-->
         <dependency>
             <groupId>com.cloud.blog</groupId>
-            <artifactId>Blog-Utils</artifactId>
+            <artifactId>Utils</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
     </dependencies>
