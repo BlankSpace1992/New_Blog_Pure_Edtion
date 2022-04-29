@@ -1,5 +1,6 @@
 /.idea/
 /log/
+*/target
 /Blog-Web/target/Blog-Web-0.0.1-SNAPSHOT.jar
 /Blog-Admin/target/classes/com/blog/BlogAdminApplication.class
 /Blog-Admin/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
