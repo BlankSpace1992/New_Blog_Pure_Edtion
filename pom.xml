@@ -4,15 +4,15 @@
     <modelVersion>4.0.0</modelVersion>
     <packaging>pom</packaging>
     <modules>
-        <module>Blog-Web</module>
-        <module>Blog-Admin</module>
-        <module>Blog-Common</module>
-        <module>Blog-Utils</module>
-        <module>Blog-Business</module>
-        <module>Blog-Gateway</module>
-        <module>Blog-Picture</module>
-        <module>Blog-RabbitMq</module>
-        <module>Blog-ElasticSearch</module>
+        <module>Web</module>
+        <module>Admin</module>
+        <module>Common</module>
+        <module>Utils</module>
+        <module>Business</module>
+        <module>Gateway</module>
+        <module>Picture</module>
+        <module>RabbitMq</module>
+        <module>ElasticSearch</module>
     </modules>
     <groupId>com.cloud.blog</groupId>
     <artifactId>spring-cloud-blog</artifactId>
